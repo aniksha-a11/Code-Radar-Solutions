@@ -1,8 +1,8 @@
 #include<stdio.h>
 int main()
 {
-    char myChar= A;
-    printf("%c\n", myChar);
-    scanf("%c", &myChar);
+    char myLetter = A;
+    printf("%c\n", myLetter);
+    scanf("%c",&myLetter);
     return 0;
 }
