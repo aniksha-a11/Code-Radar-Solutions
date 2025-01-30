@@ -2,7 +2,7 @@
 int main()
 {
     char myLetter = A;
-    printf("%c\n", myLetter);
+    printf("%c", myLetter);
     scanf("%c",&myLetter);
     return 0;
 }
