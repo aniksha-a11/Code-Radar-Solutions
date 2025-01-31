@@ -4,7 +4,7 @@ int main() {
     int b;
     int c= a|b;
     scanf("%d %d",&c ,&c);
-    printf(" %d\n",c);
-    printf(" %d\n",c);
+    printf(" %d\n",a);
+    printf(" %d\n",b);
     return 0;
 }
