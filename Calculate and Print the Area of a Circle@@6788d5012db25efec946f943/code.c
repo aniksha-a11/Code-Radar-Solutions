@@ -1,6 +1,6 @@
 #include<stdio.h>
 int main() {
-    int a;
+    float a;
     const float pi=3.14;
     float Area= pi*a*a; 
     scanf("%d",&a);
