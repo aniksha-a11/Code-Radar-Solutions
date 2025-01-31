@@ -5,6 +5,6 @@ int main() {
     int c= a|b;
     scanf("%d %d",&c ,&c);
     printf(" %d\n",a);
-    printf(" %d\n",b);
+    printf(" %d",b);
     return 0;
 }
