@@ -4,10 +4,10 @@ int main() {
     int b;
     scanf("%d %d",&a ,&b);
     if(a>b) {
-        printf("True");
+        printf("%d",a);
     }
     else {
-        printf("False");
+        printf("%d",b);
     }
     return 0;
 }
