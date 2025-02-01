@@ -5,9 +5,10 @@ int main() {
     int c;
     scanf("%d %d %d",&a ,&b ,&c);
     if(a>b>c) {
-        printf("a");
+        printf("30");
     }
     else {
-        printf("b");
+        printf("50");
     }
+    return 0;
 }
