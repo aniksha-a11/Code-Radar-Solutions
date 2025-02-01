@@ -4,7 +4,7 @@ int main() {
     int b;
     int c;
     scanf("%d %d %d",&a ,&b ,&c);
-    if(c>b>a && a>b>c) {
+    if(c>b>a) {
         printf("30");
     }
     else {
