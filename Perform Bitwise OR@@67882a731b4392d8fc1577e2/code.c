@@ -2,9 +2,7 @@
 int main() {
     int a;
     int b;
-    int c= a|b;
-    scanf("%d %d",&c ,&c);
-    printf(" %d\n",a);
-    printf(" %d",b);
+    scanf("%d %d",&a,&b);
+    printf("%d",a|b);
     return 0;
 }
