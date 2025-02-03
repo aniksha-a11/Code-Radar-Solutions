@@ -5,10 +5,10 @@ int main() {
     int c;
     scanf("%d %d %d",&a ,&b ,&c);
     if(a>b>c || c>b>a) {
-        printf("30");
+        printf("%d",c);
     }
     else {
-        printf("50");
+        printf("%d",a);
     }
     return 0;
 }
