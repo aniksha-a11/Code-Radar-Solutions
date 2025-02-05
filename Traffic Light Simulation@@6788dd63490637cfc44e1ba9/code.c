@@ -9,6 +9,6 @@ int main() {
     else if(t=='Y')
     printf("Slow Down");
     else
-    printf("Invalid iput");
+    printf("Invalid input");
     return 0;
 }
