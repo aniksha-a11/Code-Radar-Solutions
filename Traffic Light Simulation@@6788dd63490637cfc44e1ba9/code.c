@@ -1,12 +1,12 @@
 #include<stdio.h>
 int main() {
-    char a;
-    scanf("%d",&a);
-    if(a=='R')
+    char t;
+    scanf("%d",&t);
+    if(t=='R')
     printf("Stop");
-    else if(a=='G')
+    else if(t=='G')
     printf("Go");
-    else if(a=='Y')
+    else if(t=='Y')
     printf("Slow Down");
     else
     printf("Invalid iput");
