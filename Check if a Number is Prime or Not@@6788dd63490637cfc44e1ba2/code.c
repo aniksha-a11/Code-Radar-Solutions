@@ -6,7 +6,7 @@ int main() {
         if(c%a==0)
         b++;
     }
-    if(b>=2)
+    if(b>2)
     printf("Not Prime");
     else {
         printf("Prime");
